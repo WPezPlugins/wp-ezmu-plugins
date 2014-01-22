@@ -1,5 +1,5 @@
-WPezMUPlugins
-=============
+WP ezMU-Plugins
+===============
 
 The standard WordPress mu-plugins folder is "unstructured". WP ezMU-Plugins approximates something closer to the traditional WP plugins folder structure and UI. It also enables you to control load order, as well as excluded plugins from specified sites with a WP Multisite network. That is, must-use doesn't have to be must-use. 
 
@@ -8,8 +8,8 @@ For more info on WordPress and Must-Use plugins:
 http://codex.wordpress.org/Must_Use_Plugins
 
 
-SETUP
-=====
+Setup WP ezMU-Plugins
+=====================
 
 1) If you don't already have one, add your folder: /mu-plugins/. Typically this is within your /wp-content/ folder.
 
