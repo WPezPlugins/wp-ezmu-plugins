@@ -111,7 +111,7 @@ if ( !class_exists('Class_WP_ezMU_Plugins')) {
 							$str_exclude = $arr_defaults['active'];
 							$str_require_once = $arr_defaults['error'] . ': ' . dirname(__FILE__) . '/' . $arr_value['require_once'] . ' does not exist';
 							if (@file_exists( dirname(__FILE__) . '/' . $arr_value['require_once']) ){
-								$bool_require_result = require($arr_value['require_once']);
+								$bool_require_result = require(dirname(__FILE__) . '/' . $arr_value['require_once']);
 								if ( $bool_require_result == true ) {
 									$str_require_once = $arr_defaults['success'];
 								} else {
