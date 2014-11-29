@@ -196,5 +196,4 @@ if ( !class_exists('Class_WP_ezMU_Plugins')) {
 
 	} // close class
 } // close if class_exists
-
 ?>

@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: WP ezMU-Plugins
+Plugin Name: WPezMU-Plugins
 Plugin URI: https://github.com/WPezPlugins/WPezMUPlugins
 Description: The standard mu-plugins folder is "unstructured". WP ezMU-Plugins approximates something closer to the traditional WP plugins folder structure and UI. It also enables you to control load order. 
-Version: 0.5.0
+Version: 0.5.1
 Author: Mark Simchock for Alchemy United (http://AlchemyUnited.com)
 Author URI: http://ChiefAlchemist.com?TODO
 License: The MIT License (MIT) - http://opensource.org/licenses/MIT
